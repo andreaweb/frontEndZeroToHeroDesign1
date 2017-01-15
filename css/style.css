@@ -112,6 +112,7 @@ footer{
   background: #fff;
   position: absolute;
   top: calc( 640px - 50px );
+  display: flex;
 }
 footer button{
   background: #fff;
