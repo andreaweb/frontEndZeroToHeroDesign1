@@ -2,9 +2,10 @@ FRONT END ZERO TO HERO DESIGN #1 (unfinished)
 
 Project built as suggested by the amazing article, Front End Zero To Hero. Used HTML, CSS and JS (Jquery).
 
-This is a simple calculator that performs all of the basic operations (+, -, *, /). You can erase the screen and work with decimals. Woohoo! \o/
+This is site simulating a simple blog app for mobile. The number of pages is according to the length of the main content.
 
 Check the CodePen: http://codepen.io/andreaweb/pen/apOYKz
+
 Check the article: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.hq6oen43v
 
 --------------------
